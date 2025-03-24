@@ -21,7 +21,6 @@ This project is a **full-stack web application** built using the **MERN stack (M
 
 ### **4. Friend Recommendation System**
 - **Mutual Friends**: Recommend friends based on common connections.
-- **Common Interests (Optional)**: If profiles include interests, suggest friends with shared hobbies.
 - **Dashboard Display**: Show recommendations to users.
 
 ## **Technology Stack**
@@ -39,8 +38,8 @@ This project is a **full-stack web application** built using the **MERN stack (M
 - **MongoDB**: NoSQL database for storing user and friend data.
 
 ### **Version Control**
-- **GitHub**: Use Git for source code management.
-- **Branches & Commits**: Follow best practices (meaningful commits and feature branches).
+- **GitHub**: 
+- **Branches & Commits**
 
 ## **Setup Instructions**
 ### **1. Clone the Repository**
@@ -77,19 +76,6 @@ This project is a **full-stack web application** built using the **MERN stack (M
   cd client
   npm start
 ```
-
-## **Evaluation Criteria**
-- **Functionality**: All features work correctly.
-- **Code Quality**: Clean, well-structured code following best practices.
-- **Performance**: Optimized queries and API responses.
-- **Innovation (Bonus)**: Additional features or creative improvements.
-
-## **Submission**
-- Push your code to a GitHub repository.
-- Ensure **multiple small commits** instead of one large commit.
-- Share the GitHub repository link via the submission form:
-  - [Submission Form 1](https://forms.gle/HdbJ8XJ5HbDPQBoM6)
-  - [Submission Form 2](https://forms.gle/6z9titKchv4TFM2i7)
 
 ---
 **Note**: Focus on building a functional, optimized application rather than adding unnecessary complexity. The goal is to demonstrate your **proficiency in MERN stack development**. Good luck! 🚀
