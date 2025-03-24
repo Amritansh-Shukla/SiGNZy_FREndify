@@ -76,7 +76,9 @@ This project is a **full-stack web application** built using the **MERN stack (M
   cd client
   npm start
 ```
+### **4. Deployment LINK **
 
+https://si-gn-zy-fr-endify.vercel.app/
 ---
 **Note**: Focus on building a functional, optimized application rather than adding unnecessary complexity. The goal is to demonstrate your **proficiency in MERN stack development**. Good luck! 🚀
 
